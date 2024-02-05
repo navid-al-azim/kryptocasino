@@ -126,3 +126,12 @@ ul li a:hover {
 .footer-column + .footer-column {
     margin-left: 20px;
 }
+
+.full-body{
+    justify-content: center;
+    
+}
+
+.home page-template-default page page-id-2494{
+    justify-content: center;
+}

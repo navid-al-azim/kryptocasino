@@ -14,13 +14,13 @@ function loadNavbar() {
 </head>
 <body id="main-box">
     <div class="head-container">
-	<div class="logo-container">
+	<div class="logo-container"> <a href="/">
         <div class="logo">
             <img src="your-logo-image-path.png" alt="Your Logo">
         </div>
         <div class="website-name">
             Kryptocasino
-        </div>
+        </a></div>
     </div>
     <div class="bar">
         <ul>
