@@ -4,23 +4,24 @@
 }
 
 .head-container {
-    background: black;
+    background: #171c22;
     background-size: cover;
     font-family: monospace;
     padding-bottom: 10px;
     padding-top: 20px;
     font-family: monospace;
+   
 }
 
 header {
-    background-color:  #000000;
+    background-color:  #171c22;
   
     /* Light purple background for the entire header */
   }
   
   
   .nav-wrapper {
-    background-color:  #050505; /* Darker purple background for the first row */
+    background-color:  #171c22; /* Darker purple background for the first row */
     padding-left: 10px;
     padding-right: 10px;
     display: flex;
@@ -165,7 +166,7 @@ header {
   /* Your existing styles */
 
 .footer {
-    background-color: black;
+    background-color: 171c22;
     padding: 20px 0;
     color: white;
     display: flex;
@@ -188,6 +189,7 @@ header {
 .footer-column h2 {
     font-size: 20px;
     margin-bottom: 10px;
+    color: bisque;
 }
 
 .footer-column a {
@@ -198,7 +200,7 @@ header {
 }
 
 .footer-column a:hover {
-    color: steelblue;
+    color: rgb(1, 1, 2);
 }
 
 /* Additional CSS for the column arrangement */
